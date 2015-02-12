@@ -1,4 +1,5 @@
-# Simple-Fetch-JSON-Data-by-AngularJS
+# Simple Fetch JSON Data by AngularJS
+I'm a newbie of this, okay. i knew but i want to learn more.
 This is How To Fetch JSON Data by AngularJS simple way
 
 ## JSON is really interesting. ##
