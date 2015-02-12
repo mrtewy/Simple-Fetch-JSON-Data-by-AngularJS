@@ -1,0 +1,15 @@
+<html ng-app="TawanAngJSTest">
+  <head>
+  </head>
+  <body ng-controller="usercontroller">
+    <ul>
+      <li ng-repeat="users in people" ng-class="users.id">
+        <span>{{users.name}}</span>
+        <span>{{users.profession}}</span>
+        <span>{{users.address}}</span>
+      </li>
+    </ul>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+    <script type="text/javascript" src="usercontroller.js"></script>
+  </body>
+</html>
