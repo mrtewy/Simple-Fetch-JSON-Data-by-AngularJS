@@ -3,11 +3,11 @@ This is How To Fetch JSON Data by AngularJS simple way
 
 # JSON is really interesting.
      [
-     {
-     "data1": "value for data1",
-     "data2": "value for data2"
-     },
-     ...
+          {
+          "data1": "value for data1",
+          "data2": "value for data2"
+          },
+          ...
      ]
 
 # Angular Interesting point
